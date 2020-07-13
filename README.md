@@ -1,2 +1,2 @@
 # livestorm_sales_ops
-Small scripts to query data from Pipedrive
+Script to query data from Pipedrive
